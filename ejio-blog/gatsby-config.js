@@ -14,6 +14,7 @@ module.exports = {
     author: `Ena Jenkins`,
     siteUrl: `https://enajenkins.github.io/`,
   },
+  pathPrefix: `/public`,
   plugins: [
     `gatsby-plugin-image`,
     {
